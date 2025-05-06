@@ -16,7 +16,7 @@ export default function HeroSection() {
     <section
       ref={ref}
       id="home"
-      className="flex flex-col md:flex-row items-center justify-between px-10 lg:px-20 relative overflow-hidden py-15 lg:py-20"
+      className="flex flex-col md:flex-row items-center justify-between px-10 lg:px-20 relative overflow-hidden py-20 lg:py-20"
     >
       
 

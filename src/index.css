@@ -11,3 +11,7 @@
 .animate-[float_3s_ease-in-out_infinite] {
   animation: float 3s ease-in-out infinite;
 }
+
+html, body {
+  overflow-x: hidden;
+}
