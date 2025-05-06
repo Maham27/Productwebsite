@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { FaHeadphonesAlt, FaBatteryFull, FaBluetooth, FaMicrophone } from "react-icons/fa";
-import '../app.css';
+
 
 const features = [
   {
