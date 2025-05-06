@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+body {
+    overflow-x: hidden;
+}
+.gradient-text {
+  color: linear-gradient(to bottom, #FBB6CE, #F9A8D4, #FDBA74);
+  -webkit-background-clip: text;
+
+}
